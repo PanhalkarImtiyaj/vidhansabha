@@ -75,7 +75,7 @@ function Login() {
       <div className="auth-left-panel">
         <div className="logo-container">
           <img 
-            src="/src/assets/images/login-logo.png" 
+            src="/images/login-logo.png" 
             alt="Login Logo" 
             className="login-logo"
           />

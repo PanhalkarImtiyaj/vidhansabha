@@ -350,7 +350,7 @@
   align-items: center;
   justify-content: center;
   transition: transform 0.3s ease;
-  background-image: url('../assets/images/login-logo.png');
+  background-image: url('/images/login-logo.png');
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;

@@ -113,7 +113,7 @@ function Sidebar({ activePage, onPageChange, menuItems }) {
         <div className="sidebar-logo">
           <div className="logo-circle">
             <img 
-              src="/src/assets/images/login-logo.png" 
+              src="/images/login-logo.png" 
               alt="Logo"
               style={{ width: '100px', height: '100px', objectFit: 'contain' }}
             />
